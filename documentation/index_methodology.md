@@ -14,7 +14,7 @@ The different indices are comprised as follows:
 | --- | ---: | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |--- |--- |--- |
 | Government response index | 16 | `x` | `x` | `x` | `x` | `x` | `x` | `x` | `x` | `x` | `x` | | | `x` | `x` | `x` | | | `x` | `x` | `x` | | | |
 | Containment and health index | 14 | `x` | `x` | `x` | `x` | `x` | `x` | `x` | `x` |  | `x` | `x` | `x` | | |`x` | `x` | `x` | | | |
-| Stringency index | 9 | `x` | `x` | `x` | `x` | `x` | `x` | `x` | `x` | | | | | `x` | | | | | 
+| Stringency index | 9 | `x` | `x` | `x` | `x` | `x` | `x` | `x` | `x` | | | | `x` | | | | | 
 | Economic support index | 2 | | | | | | | | | `x` | `x` | | | | | | | | | |
 | [Legacy stringency index](#legacy-stringency-index) | 7 | `x` | `x` | `?` | `?` | `x` | `?` | `?` | `x` | | | | | `x` | | | | | 
 
